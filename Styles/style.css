@@ -128,8 +128,7 @@ body{
         width: auto;
     }
     .cabecalho__menu__links{
-        margin: auto;
-        padding: auto;
+        margin: 1%;
     }
 }
 }
