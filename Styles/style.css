@@ -127,4 +127,9 @@ body{
     .apresentacao__conteudo {
         width: auto;
     }
+    .cabecalho__menu__links{
+        margin: auto;
+        padding: auto;
+    }
+}
 }
