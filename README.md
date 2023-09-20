@@ -1,5 +1,4 @@
 # Site-Curriculo
-```
 
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 ## Ferramentas utilizadas:
@@ -13,4 +12,4 @@
 ## Feito por:
 
 ### Patrick Magalhães de Macedo
-```
+
